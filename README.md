@@ -1,5 +1,4 @@
 # Diabetes-Prediction
-Classify whether someone has diabetes or not.
 
 
 Aim:-
